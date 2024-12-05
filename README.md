@@ -14,7 +14,6 @@ I am a beginner front-end developer, ready to take on projects of any complexity
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
 | English       | B2                                                                        |
-| Russian       | C2                                                                        |
 | Ukrainian     | Native                                                                    |
 
 ## 📚 What I'm currently learning 
