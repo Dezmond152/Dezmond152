@@ -27,8 +27,6 @@ And get all my post articles in my blog 📝 [**zh.eming.li**](https://imnerd.or
 ## 💻 Open Source Work Stats
 
 
-![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=lizheming&show_icons=true)
-
 <!--
 **lizheming/lizheming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
