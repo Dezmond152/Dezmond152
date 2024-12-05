@@ -2,7 +2,7 @@
 
 <img align='right' src='https://octodex.github.com/images/nyantocat.gif' width='200'>
 
-I'm a JavaScript developer from Ukraine, making silly things is fun.
+I'm a JavaScript developer from Ukraine. Making silly things is fun.
 
 <details>
   
