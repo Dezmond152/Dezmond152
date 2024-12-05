@@ -17,7 +17,7 @@ So far I'm still a baby in the frontend, but I'm working on it)
 | ------------- | ------------------------------------------------------------------------- |
 | English       | B2                                                                        |
 | Ukrainian     | Native                                                                    |
-| Russian       | Advanced                                                                  |
+| Russian       | Advansed                                                                  |
 
 ## What I'm currently learning 📚
 
