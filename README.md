@@ -6,12 +6,12 @@ I'm a JavaScript developer from Ukraine, making silly things is fun.
 
 <details>
   
-### What I do 📜
+### 🛠️ What I do 
 
 I make different funny applications on JavaScript, HTML, CSS through them I learn new features. 
 So far I'm still a baby in the frontend, but I'm working on it)
 
-### Languages 🌐
+### 🌐 Languages 
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
@@ -19,7 +19,7 @@ So far I'm still a baby in the frontend, but I'm working on it)
 | Russian       | C2                                                                        |
 | Ukrainian     | Native                                                                    |
 
-## What I'm currently learning 📚
+## 📚 What I'm currently learning 
 
 - Diving into React
 - Improving the Canvas experience
