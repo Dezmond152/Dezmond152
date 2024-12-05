@@ -7,7 +7,7 @@ I'm a JavaScript developer from Ukraine. Making silly things is fun.
 ### 🛠️ What I do 
 
 I make different funny applications on JavaScript, HTML, CSS through them I learn new features. 
-So far I'm still a baby in the frontend, but I'm working on it)
+I am a beginner front-end developer, ready to take on projects of any complexity. I enjoy exploring new technologies and expanding my knowledge.
 
 ### 🌐 Languages 
 
