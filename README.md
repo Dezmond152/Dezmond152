@@ -20,7 +20,7 @@ I am a beginner front-end developer, ready to take on projects of any complexity
 
 - Diving into React
 - Improving the Canvas experience
-- Practicing HTML+CSS skills
+- Practicing SCSS skills
 
 ## 🧑‍💻 Where to find me:
 
