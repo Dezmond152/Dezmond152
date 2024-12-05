@@ -16,8 +16,8 @@ So far I'm still a baby in the frontend, but I'm working on it)
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
 | English       | B2                                                                        |
+| Russian       | C2                                                                        |
 | Ukrainian     | Native                                                                    |
-| Russian       | Advansed                                                                  |
 
 ## What I'm currently learning 📚
 
