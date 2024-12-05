@@ -1,6 +1,6 @@
 ##  Hi 👋
 
-<img align='right' src='https://octodex.github.com/images/nyantocat.gif' width='200'>
+<img align='right' src='https://octodex.github.com/images/nyantocat.gif' width='200' border-radius='10'>
 
 I'm a JavaScript developer from Ukraine, making silly things is fun.
 
