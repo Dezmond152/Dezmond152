@@ -8,22 +8,20 @@ I'm a JavaScript developer from Ukraine, making silly things is fun.
   
 ### What I do
 
-I do Open Source. In fact, I do Open Source so much, that 95% of my work on
-GitHub is free and open to everyone. I am really passionate about doing web
-development, it is in my opinion the best combination of logical programming and
-(sometimes) beautiful design.
+I make different funny applications on JavaScript, HTML, CSS through them I learn new aspects of JavaScript. 
+So far I'm still a baby in the frontend, but I'm working on it)
 
 ### Languages 🌐
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| English (duh) | C2 ([EFSET certified](https://www.efset.org/cert/5P5Pp1))                 |
-| German        | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
-| Czech         | Native language                                                           |
+| English       | B2                                                                        |
+| Ukrainian     | Native                                                                    |
+| Russian       | Advanced                                                                  |
 
 ## What I'm currently learning 📚
 
-- Diving into VS Code's code base
-- Typescript's magic
-- Rust's blazing-fastness
+- Diving into React
+- Improving the Canvas experience
+- Practicing HTML+CSS skills
 </details>
