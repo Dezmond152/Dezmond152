@@ -5,10 +5,9 @@
 
 I'm a JavaScript developer from Ukraine, making silly things is fun.
 
-
 <details>
   
-## 📫 Contact Me on Social Media
+📫 Contact Me on Social Media
 
 [Facebook][-1] | [Sina Weibo][0] | [Zhihu][1] | [SegmentFault][2] | [V2EX][3] or just ✉️ [Email](mailto:i@imnerd.org) | 💬 [Issue](https://github.com/lizheming/lizheming/issues/me) Me about everything!
   
