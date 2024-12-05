@@ -21,7 +21,6 @@ I am a beginner front-end developer, ready to take on projects of any complexity
 - Diving into React;
 - Improving the Canvas experience;
 - Practicing SCSS skills;
-- Learning NoSQL and SQL databases;
 
 ## 🧑‍💻 Where to find me:
 
