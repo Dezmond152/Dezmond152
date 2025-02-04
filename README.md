@@ -18,9 +18,9 @@ I am a beginner front-end developer, ready to take on projects of any complexity
 
 ## 📚 What I'm currently learning 
 
-- Diving into React;
+- Diving into React & TypeScript;
 - Improving the Canvas experience;
-- Practicing SCSS skills;
+- Practicing SCSS;
 
 ## 🧑‍💻 Where to find me:
 
