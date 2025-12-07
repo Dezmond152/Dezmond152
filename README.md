@@ -18,8 +18,8 @@ I am a beginner front-end developer, ready to take on projects of any complexity
 
 ## 📚 What I'm currently learning 
 
-- Diving into React & TypeScript;
-- Practicing SCSS;
+- React & TypeScript;
+- Tailwind;
 
 ## 🧑‍💻 Where to find me:
 
