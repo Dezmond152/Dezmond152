@@ -6,8 +6,8 @@ I'm a JavaScript developer. Making silly things is fun.
 
 ### 🛠️ What I do 
 
-I make different apps on JavaScript and so on through them I learn new features. 
-Enjoying exploring new technologies and expanding my knowledge.
+I make different apps on JavaScript for fun.  
+Enjoying trying new technologies and expanding my knowledge.
 
 ### 🌐 Languages 
 
@@ -16,10 +16,7 @@ Enjoying exploring new technologies and expanding my knowledge.
 | English       | B2                                                                        |
 | Ukrainian     | Native                                                                    |
 
-## 📚 What I'm currently learning 
-
-- React & TypeScript;
-- Tailwind;
+ 
 
 ## 🧑‍💻 Where to find me:
 
