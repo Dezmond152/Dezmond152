@@ -6,7 +6,7 @@ I'm a JavaScript developer. Making silly things is fun.
 
 ### 🛠️ What I do 
 
-I make different apps in JavaScript because I love JavaScript.
+I make different apps in JavaScript because I love JavaScript.\
 I enjoy trying new technologies and expanding my knowledge.
 
 ### 🌐 Languages 
