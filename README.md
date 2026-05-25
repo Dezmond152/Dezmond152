@@ -1,13 +1,13 @@
 # Hi 👋
 
-<img align='right' src='https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif' width='200'>
+<img align='right' src='https://octodex.github.com/images/nyantocat.gif' width='200'>
 
 I'm a JavaScript developer. Making silly things is fun.
 
 ### 🛠️ What I do 
 
-I make different apps in JavaScript because I love JavaScript.\
-I enjoy trying new technologies and expanding my knowledge.
+I make different apps in JavaScript\
+I enjoy trying new technologies and expanding my knowledge
 
 ### 🌐 Languages 
 
