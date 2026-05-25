@@ -2,12 +2,12 @@
 
 <img align='right' src='https://octodex.github.com/images/nyantocat.gif' width='200'>
 
-I'm a JavaScript developer from Ukraine. Making silly things is fun.
+I'm a JavaScript developer. Making silly things is fun.
 
 ### 🛠️ What I do 
 
-I make different funny applications on JavaScript, HTML, CSS through them I learn new features. 
-I am a beginner front-end developer, ready to take on projects of any complexity. I enjoy exploring new technologies and expanding my knowledge.
+I make different apps on JavaScript and so on through them I learn new features. 
+Enjoying exploring new technologies and expanding my knowledge.
 
 ### 🌐 Languages 
 
