@@ -9,8 +9,7 @@ I'm a JavaScript developer. Making silly things is fun.
 I make different apps in JavaScript\
 I enjoy trying new technologies and expanding my knowledge
 
-
- 
+<br/>
 
 ## 🧑‍💻 Where to find me:
 
