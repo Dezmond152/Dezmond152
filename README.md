@@ -9,12 +9,6 @@ I'm a JavaScript developer. Making silly things is fun.
 I make different apps in JavaScript\
 I enjoy trying new technologies and expanding my knowledge
 
-### 🌐 Languages 
-
-| Language      | Proficiency                                                               |
-| ------------- | ------------------------------------------------------------------------- |
-| English       | B2                                                                        |
-| Ukrainian     | Native                                                                    |
 
  
 
