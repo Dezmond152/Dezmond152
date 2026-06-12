@@ -11,7 +11,7 @@ I enjoy trying new technologies and expanding my knowledge
 
 <br/>
 
-## 🧑‍💻 Where to find me:
+## Where to find me:
 
 - <a href="https://t.me/dezmond152">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 - <a href="mailto:rossomahavit@gmail.com">![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
